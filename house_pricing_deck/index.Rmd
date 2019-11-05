@@ -1,0 +1,47 @@
+---
+title       : House Pricing Modeling
+subtitle    : Uma análise exploratória e preditiva
+author      : Daniel Lima Viegas
+job         : Data Scientist
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Características do Conjunto de dados
+  
+  - O banco possui 44 variáveis categóricas e 36 variáveis numéricas
+  
+  - O banco pode ser dividido em 3 categorias:
+    * Atributos físicos da residência;
+    * Atributos de propriedade da residência;
+    * Atributos da Vizinhança.
+
+---
+
+## Características do Conjunto de dados
+
+Exemplos de variáveis nessas 3 categorias:
+  
+  - Atributos físicos da residência:
+    *   OverallQual: Avalia a qualidade do material usado na construção e o acabamento da casa;
+    *   RoofStyle: Tipo do telhado;
+  
+  - Atributos de propriedade da casa:
+    * 1stFlrSF: Tamanho do primeiro andar em pés quadrados;
+    * GrLivArea: Tamanho da Living Area em pés quadrados;
+  
+  - Atributos de Vizinhança:
+    * Street: Tipo de estrada para acesso a propriedade;
+    * MSZoning: Identifica as classes das zonas de venda;
+
+---
+
+## Características das variáveis
+
+  - 
+
+
